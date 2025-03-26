@@ -1,0 +1,1541 @@
+2025-02-13 20:57:01,608 - basicLogger - INFO - Starting processing service on port 8100
+2025-02-13 20:57:06,621 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:57:11,618 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:57:16,609 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:57:45,536 - basicLogger - INFO - Starting processing service on port 8100
+2025-02-13 20:57:50,543 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:57:52,916 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:57:55,248 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:57:55,249 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 0, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 0, 'min_flight_duration': inf, 'last_updated': '2025-02-14 04:57:50'}
+2025-02-13 20:57:55,251 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:57:55,544 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:57:57,817 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:00,126 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:00,128 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 0, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 0, 'min_flight_duration': inf, 'last_updated': '2025-02-14 04:57:55'}
+2025-02-13 20:58:00,128 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:00,551 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:02,861 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:05,153 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:05,154 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 0, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 0, 'min_flight_duration': inf, 'last_updated': '2025-02-14 04:58:00'}
+2025-02-13 20:58:05,154 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:05,545 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:07,844 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:10,165 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:10,166 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 0, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 0, 'min_flight_duration': inf, 'last_updated': '2025-02-14 04:58:05'}
+2025-02-13 20:58:10,166 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:10,548 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:12,835 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:15,143 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:15,144 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 0, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 0, 'min_flight_duration': inf, 'last_updated': '2025-02-14 04:58:10'}
+2025-02-13 20:58:15,144 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:15,538 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:17,796 - basicLogger - INFO - Received 1 flight schedule events.
+2025-02-13 20:58:20,124 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:20,125 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:58:15'}
+2025-02-13 20:58:20,126 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:20,548 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:22,861 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:25,193 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:25,194 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:58:20'}
+2025-02-13 20:58:25,194 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:25,541 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:27,853 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:30,169 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:30,169 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:58:25'}
+2025-02-13 20:58:30,170 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:30,541 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:32,856 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:35,181 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:35,182 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:58:30'}
+2025-02-13 20:58:35,182 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:35,546 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:37,857 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:40,174 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:40,176 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:58:35'}
+2025-02-13 20:58:40,176 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:40,542 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:42,836 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:45,132 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:45,133 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:58:40'}
+2025-02-13 20:58:45,133 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:45,542 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:47,860 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:50,169 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:50,170 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:58:45'}
+2025-02-13 20:58:50,170 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:50,550 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:52,890 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:58:55,178 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:58:55,178 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:58:50'}
+2025-02-13 20:58:55,180 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:58:55,543 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:58:57,829 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:59:00,163 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:59:00,166 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:58:55'}
+2025-02-13 20:59:00,166 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:00,543 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:02,870 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:59:05,129 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:59:05,130 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:59:00'}
+2025-02-13 20:59:05,130 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:05,552 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:07,826 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:59:10,166 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:59:10,168 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:59:05'}
+2025-02-13 20:59:10,168 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:10,546 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:12,857 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:59:15,163 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:59:15,164 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:59:10'}
+2025-02-13 20:59:15,164 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:15,543 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:17,841 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:59:20,152 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:59:20,152 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:59:15'}
+2025-02-13 20:59:20,152 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:20,550 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:22,846 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:59:25,161 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:59:25,162 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:59:20'}
+2025-02-13 20:59:25,162 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:25,540 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:27,938 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 20:59:30,447 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 20:59:30,447 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 1, 'num_passenger_checkins': 0, 'max_luggage_weight': 0, 'min_luggage_weight': inf, 'max_flight_duration': 100, 'min_flight_duration': 100, 'last_updated': '2025-02-14 04:59:25'}
+2025-02-13 20:59:30,447 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:30,545 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:33,039 - basicLogger - INFO - Received 8 flight schedule events.
+2025-02-13 20:59:35,573 - basicLogger - INFO - Received 3 passenger check-in events.
+2025-02-13 20:59:35,574 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 9, 'num_passenger_checkins': 3, 'max_luggage_weight': 507, 'min_luggage_weight': 121, 'max_flight_duration': 864, 'min_flight_duration': 76, 'last_updated': '2025-02-14 04:59:30'}
+2025-02-13 20:59:35,574 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:40,542 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:42,865 - basicLogger - INFO - Received 20 flight schedule events.
+2025-02-13 20:59:45,207 - basicLogger - INFO - Received 20 passenger check-in events.
+2025-02-13 20:59:45,208 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 29, 'num_passenger_checkins': 23, 'max_luggage_weight': 574, 'min_luggage_weight': 50, 'max_flight_duration': 961, 'min_flight_duration': 76, 'last_updated': '2025-02-14 04:59:40'}
+2025-02-13 20:59:45,208 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:45,551 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:47,877 - basicLogger - INFO - Received 10 flight schedule events.
+2025-02-13 20:59:50,198 - basicLogger - INFO - Received 11 passenger check-in events.
+2025-02-13 20:59:50,199 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 39, 'num_passenger_checkins': 34, 'max_luggage_weight': 576, 'min_luggage_weight': 50, 'max_flight_duration': 961, 'min_flight_duration': 76, 'last_updated': '2025-02-14 04:59:45'}
+2025-02-13 20:59:50,199 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 20:59:50,548 - basicLogger - INFO - Periodic processing started.
+2025-02-13 20:59:53,126 - basicLogger - INFO - Received 11 flight schedule events.
+2025-02-13 20:59:55,632 - basicLogger - INFO - Received 10 passenger check-in events.
+2025-02-13 20:59:55,633 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 50, 'num_passenger_checkins': 44, 'max_luggage_weight': 576, 'min_luggage_weight': 36, 'max_flight_duration': 961, 'min_flight_duration': 76, 'last_updated': '2025-02-14 04:59:50'}
+2025-02-13 20:59:55,633 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:00,553 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:03,043 - basicLogger - INFO - Received 20 flight schedule events.
+2025-02-13 21:00:05,513 - basicLogger - INFO - Received 20 passenger check-in events.
+2025-02-13 21:00:05,514 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 70, 'num_passenger_checkins': 64, 'max_luggage_weight': 580, 'min_luggage_weight': 5, 'max_flight_duration': 976, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:00'}
+2025-02-13 21:00:05,514 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:05,547 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:08,065 - basicLogger - INFO - Received 10 flight schedule events.
+2025-02-13 21:00:10,622 - basicLogger - INFO - Received 10 passenger check-in events.
+2025-02-13 21:00:10,623 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 80, 'num_passenger_checkins': 74, 'max_luggage_weight': 580, 'min_luggage_weight': 5, 'max_flight_duration': 977, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:05'}
+2025-02-13 21:00:10,624 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:15,541 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:18,030 - basicLogger - INFO - Received 18 flight schedule events.
+2025-02-13 21:00:20,374 - basicLogger - INFO - Received 19 passenger check-in events.
+2025-02-13 21:00:20,375 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 98, 'num_passenger_checkins': 93, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:15'}
+2025-02-13 21:00:20,375 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:20,544 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:22,866 - basicLogger - INFO - Received 3 flight schedule events.
+2025-02-13 21:00:25,167 - basicLogger - INFO - Received 7 passenger check-in events.
+2025-02-13 21:00:25,168 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:20'}
+2025-02-13 21:00:25,169 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:25,542 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:27,851 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:00:30,133 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:00:30,134 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:25'}
+2025-02-13 21:00:30,134 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:30,546 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:32,831 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:00:35,105 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:00:35,106 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:30'}
+2025-02-13 21:00:35,106 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:35,543 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:37,896 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:00:40,203 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:00:40,204 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:35'}
+2025-02-13 21:00:40,204 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:40,541 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:42,831 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:00:45,128 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:00:45,130 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:40'}
+2025-02-13 21:00:45,130 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:45,549 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:47,955 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:00:50,321 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:00:50,322 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:45'}
+2025-02-13 21:00:50,322 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:50,539 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:52,918 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:00:55,226 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:00:55,227 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:50'}
+2025-02-13 21:00:55,227 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:00:55,543 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:00:57,845 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:00,183 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:00,184 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:00:55'}
+2025-02-13 21:01:00,186 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:00,552 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:02,873 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:05,226 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:05,227 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:00'}
+2025-02-13 21:01:05,227 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:05,538 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:07,859 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:10,176 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:10,178 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:05'}
+2025-02-13 21:01:10,178 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:10,545 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:12,805 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:15,105 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:15,106 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:10'}
+2025-02-13 21:01:15,106 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:15,538 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:17,823 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:20,147 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:20,148 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:15'}
+2025-02-13 21:01:20,148 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:20,543 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:22,876 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:25,202 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:25,203 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:20'}
+2025-02-13 21:01:25,203 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:25,549 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:27,825 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:30,159 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:30,162 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:25'}
+2025-02-13 21:01:30,162 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:30,544 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:32,830 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:35,195 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:35,197 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:30'}
+2025-02-13 21:01:35,197 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:35,549 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:37,837 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:40,200 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:40,200 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 101, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 996, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:35'}
+2025-02-13 21:01:40,200 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:40,545 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:42,860 - basicLogger - INFO - Received 1 flight schedule events.
+2025-02-13 21:01:45,131 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:45,131 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:40'}
+2025-02-13 21:01:45,131 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:45,551 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:47,905 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:50,190 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:50,192 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:45'}
+2025-02-13 21:01:50,192 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:50,544 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:52,871 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:01:55,178 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:01:55,179 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:50'}
+2025-02-13 21:01:55,179 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:01:55,544 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:01:57,893 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:00,170 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:00,170 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:01:55'}
+2025-02-13 21:02:00,170 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:00,552 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:02,804 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:05,083 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:05,084 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:00'}
+2025-02-13 21:02:05,084 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:05,551 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:07,879 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:10,183 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:10,184 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:05'}
+2025-02-13 21:02:10,184 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:10,549 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:12,852 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:15,107 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:15,107 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:10'}
+2025-02-13 21:02:15,107 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:15,543 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:17,856 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:20,170 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:20,172 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:15'}
+2025-02-13 21:02:20,172 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:20,547 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:22,843 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:25,137 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:25,138 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:20'}
+2025-02-13 21:02:25,138 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:25,541 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:27,857 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:30,218 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:30,219 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:25'}
+2025-02-13 21:02:30,219 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:30,542 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:32,828 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:35,132 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:35,134 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:30'}
+2025-02-13 21:02:35,134 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:35,545 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:37,933 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:40,258 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:40,259 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:35'}
+2025-02-13 21:02:40,261 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:40,540 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:42,838 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:45,157 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:45,158 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:40'}
+2025-02-13 21:02:45,158 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:45,552 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:47,882 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:50,177 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:50,178 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:45'}
+2025-02-13 21:02:50,179 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:50,538 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:52,838 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:02:55,203 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:02:55,205 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:50'}
+2025-02-13 21:02:55,205 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:02:55,547 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:02:57,871 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:03:00,198 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:03:00,198 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:02:55'}
+2025-02-13 21:03:00,199 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:03:00,547 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:03:02,868 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:03:05,191 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:03:05,193 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:03:00'}
+2025-02-13 21:03:05,193 - basicLogger - INFO - Periodic processing ended.
+2025-02-13 21:03:05,577 - basicLogger - INFO - Periodic processing started.
+2025-02-13 21:03:07,976 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-13 21:03:10,294 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-13 21:03:10,295 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 102, 'num_passenger_checkins': 100, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 10000, 'min_flight_duration': 13, 'last_updated': '2025-02-14 05:03:05'}
+2025-02-13 21:03:10,297 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:22:54,133 - basicLogger - INFO - Starting processing service on port 8100
+2025-02-20 14:22:59,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:01,605 - basicLogger - INFO - Received 603 flight schedule events.
+2025-02-20 14:23:03,959 - basicLogger - INFO - Received 600 passenger check-in events.
+2025-02-20 14:23:03,960 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:22:59'}
+2025-02-20 14:23:03,960 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:04,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:06,422 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:08,733 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:08,736 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:04'}
+2025-02-20 14:23:08,737 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:09,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:11,470 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:13,790 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:13,792 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:09'}
+2025-02-20 14:23:13,792 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:14,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:16,461 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:18,778 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:18,781 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:14'}
+2025-02-20 14:23:18,781 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:19,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:21,441 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:23,696 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:23,698 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:19'}
+2025-02-20 14:23:23,698 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:24,142 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:26,420 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:28,697 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:28,699 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:24'}
+2025-02-20 14:23:28,700 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:29,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:31,395 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:33,698 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:33,699 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:29'}
+2025-02-20 14:23:33,700 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:34,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:36,433 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:38,759 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:38,760 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:34'}
+2025-02-20 14:23:38,760 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:39,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:41,425 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:43,733 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:43,734 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:39'}
+2025-02-20 14:23:43,734 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:44,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:46,477 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:48,824 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:48,825 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:44'}
+2025-02-20 14:23:48,825 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:49,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:51,412 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:53,710 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:53,712 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:49'}
+2025-02-20 14:23:53,712 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:54,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:23:56,491 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:23:58,756 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:23:58,757 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:54'}
+2025-02-20 14:23:58,757 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:23:59,150 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:01,440 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:03,762 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:03,765 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:23:59'}
+2025-02-20 14:24:03,765 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:04,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:06,476 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:08,805 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:08,808 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:04'}
+2025-02-20 14:24:08,808 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:09,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:11,504 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:13,831 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:13,833 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:09'}
+2025-02-20 14:24:13,833 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:14,135 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:16,478 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:18,746 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:18,748 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:14'}
+2025-02-20 14:24:18,748 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:19,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:21,457 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:23,785 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:23,786 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:19'}
+2025-02-20 14:24:23,787 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:24,142 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:26,441 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:28,726 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:28,726 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:24'}
+2025-02-20 14:24:28,727 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:29,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:31,438 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:33,718 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:33,719 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:29'}
+2025-02-20 14:24:33,719 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:34,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:36,498 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:38,802 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:38,804 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:34'}
+2025-02-20 14:24:38,804 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:39,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:41,442 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:43,762 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:43,762 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:39'}
+2025-02-20 14:24:43,762 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:44,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:46,411 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:48,725 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:48,725 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:44'}
+2025-02-20 14:24:48,726 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:49,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:51,450 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:53,781 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:53,782 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:49'}
+2025-02-20 14:24:53,782 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:54,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:24:56,417 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:24:58,751 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:24:58,752 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:54'}
+2025-02-20 14:24:58,752 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:24:59,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:01,484 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:03,773 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:03,773 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:24:59'}
+2025-02-20 14:25:03,773 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:04,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:06,433 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:08,764 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:08,766 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:04'}
+2025-02-20 14:25:08,766 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:09,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:11,457 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:13,789 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:13,790 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:09'}
+2025-02-20 14:25:13,791 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:14,135 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:16,446 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:18,784 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:18,785 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:14'}
+2025-02-20 14:25:18,785 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:19,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:21,436 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:23,732 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:23,732 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:19'}
+2025-02-20 14:25:23,734 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:24,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:26,469 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:28,781 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:28,784 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:24'}
+2025-02-20 14:25:28,784 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:29,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:31,427 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:33,747 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:33,749 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:29'}
+2025-02-20 14:25:33,750 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:34,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:36,460 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:38,812 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:38,813 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:34'}
+2025-02-20 14:25:38,815 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:39,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:41,424 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:43,712 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:43,712 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:39'}
+2025-02-20 14:25:43,713 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:44,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:46,466 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:48,807 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:48,808 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:44'}
+2025-02-20 14:25:48,809 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:49,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:51,483 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:53,794 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:53,794 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:49'}
+2025-02-20 14:25:53,794 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:54,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:25:56,456 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:25:58,782 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:25:58,785 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:54'}
+2025-02-20 14:25:58,785 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:25:59,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:01,498 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:03,799 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:03,801 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:25:59'}
+2025-02-20 14:26:03,802 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:04,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:06,495 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:08,804 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:08,805 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:04'}
+2025-02-20 14:26:08,805 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:09,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:11,422 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:13,738 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:13,739 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:09'}
+2025-02-20 14:26:13,740 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:14,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:16,443 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:18,744 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:18,744 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:14'}
+2025-02-20 14:26:18,745 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:19,142 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:21,435 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:23,725 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:23,725 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:19'}
+2025-02-20 14:26:23,725 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:24,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:26,415 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:28,707 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:28,708 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:24'}
+2025-02-20 14:26:28,709 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:29,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:31,485 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:33,790 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:33,791 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:29'}
+2025-02-20 14:26:33,792 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:34,142 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:36,454 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:38,756 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:38,759 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:34'}
+2025-02-20 14:26:38,760 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:39,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:41,489 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:43,790 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:43,791 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:39'}
+2025-02-20 14:26:43,791 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:44,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:46,448 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:48,794 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:48,797 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:44'}
+2025-02-20 14:26:48,797 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:49,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:51,437 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:53,758 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:53,760 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:49'}
+2025-02-20 14:26:53,761 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:54,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:26:56,444 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:26:58,756 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:26:58,758 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:54'}
+2025-02-20 14:26:58,758 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:26:59,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:01,495 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:03,800 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:03,802 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:26:59'}
+2025-02-20 14:27:03,802 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:04,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:06,469 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:08,780 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:08,782 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:04'}
+2025-02-20 14:27:08,783 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:09,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:11,487 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:13,788 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:13,789 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:09'}
+2025-02-20 14:27:13,790 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:14,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:16,478 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:18,778 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:18,779 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:14'}
+2025-02-20 14:27:18,779 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:19,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:21,460 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:23,827 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:23,830 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:19'}
+2025-02-20 14:27:23,832 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:24,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:26,426 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:28,699 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:28,701 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:24'}
+2025-02-20 14:27:28,701 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:29,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:31,507 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:33,810 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:33,811 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:29'}
+2025-02-20 14:27:33,811 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:34,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:36,423 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:38,700 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:38,702 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:34'}
+2025-02-20 14:27:38,702 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:39,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:41,481 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:43,874 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:43,877 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:39'}
+2025-02-20 14:27:43,877 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:44,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:46,408 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:48,717 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:48,719 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:44'}
+2025-02-20 14:27:48,720 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:49,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:51,452 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:53,801 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:53,802 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:49'}
+2025-02-20 14:27:53,802 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:54,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:27:56,547 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:27:58,912 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:27:58,914 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:54'}
+2025-02-20 14:27:58,914 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:27:59,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:01,516 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:03,882 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:03,883 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:27:59'}
+2025-02-20 14:28:03,883 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:04,135 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:06,513 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:08,880 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:08,881 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:04'}
+2025-02-20 14:28:08,881 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:09,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:11,493 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:13,815 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:13,816 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:09'}
+2025-02-20 14:28:13,817 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:14,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:16,585 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:18,945 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:18,947 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:14'}
+2025-02-20 14:28:18,947 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:19,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:21,509 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:23,826 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:23,828 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:19'}
+2025-02-20 14:28:23,828 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:24,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:26,479 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:28,892 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:28,894 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:24'}
+2025-02-20 14:28:28,894 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:29,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:31,470 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:33,768 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:33,768 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:29'}
+2025-02-20 14:28:33,769 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:34,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:36,445 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:38,924 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:38,924 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:34'}
+2025-02-20 14:28:38,925 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:39,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:41,567 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:43,852 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:43,854 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:39'}
+2025-02-20 14:28:43,854 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:44,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:46,490 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:48,785 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:48,786 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:44'}
+2025-02-20 14:28:48,787 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:49,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:51,483 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:53,808 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:53,808 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:49'}
+2025-02-20 14:28:53,809 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:54,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:28:56,486 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:28:58,859 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:28:58,861 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:54'}
+2025-02-20 14:28:58,861 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:28:59,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:01,479 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:03,809 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:03,811 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:28:59'}
+2025-02-20 14:29:03,812 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:04,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:06,434 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:08,762 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:08,764 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:04'}
+2025-02-20 14:29:08,764 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:09,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:11,460 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:13,749 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:13,750 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:09'}
+2025-02-20 14:29:13,751 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:14,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:16,450 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:18,754 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:18,756 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:14'}
+2025-02-20 14:29:18,758 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:19,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:21,420 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:23,724 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:23,726 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:19'}
+2025-02-20 14:29:23,726 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:24,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:26,479 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:28,777 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:28,779 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:24'}
+2025-02-20 14:29:28,779 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:29,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:31,473 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:33,790 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:33,792 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:29'}
+2025-02-20 14:29:33,793 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:34,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:36,478 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:38,799 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:38,800 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:34'}
+2025-02-20 14:29:38,801 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:39,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:41,476 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:43,797 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:43,798 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:39'}
+2025-02-20 14:29:43,799 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:44,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:46,434 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:48,801 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:48,803 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:44'}
+2025-02-20 14:29:48,803 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:49,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:51,480 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:53,770 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:53,771 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:49'}
+2025-02-20 14:29:53,771 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:54,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:29:56,434 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:29:58,727 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:29:58,729 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:54'}
+2025-02-20 14:29:58,729 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:29:59,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:01,468 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:03,797 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:03,799 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:29:59'}
+2025-02-20 14:30:03,799 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:04,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:06,410 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:08,712 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:08,712 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:04'}
+2025-02-20 14:30:08,714 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:09,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:11,488 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:13,840 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:13,842 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:09'}
+2025-02-20 14:30:13,843 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:14,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:16,477 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:18,771 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:18,773 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:14'}
+2025-02-20 14:30:18,773 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:19,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:21,468 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:23,785 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:23,787 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:19'}
+2025-02-20 14:30:23,788 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:24,152 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:26,493 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:28,789 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:28,790 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:24'}
+2025-02-20 14:30:28,790 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:29,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:31,498 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:33,788 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:33,789 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:29'}
+2025-02-20 14:30:33,789 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:34,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:36,474 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:38,794 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:38,796 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:34'}
+2025-02-20 14:30:38,796 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:39,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:41,458 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:43,780 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:43,782 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:39'}
+2025-02-20 14:30:43,783 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:44,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:46,436 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:48,726 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:48,728 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:44'}
+2025-02-20 14:30:48,728 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:49,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:51,465 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:53,799 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:53,801 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:49'}
+2025-02-20 14:30:53,801 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:54,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:30:56,469 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:30:58,789 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:30:58,790 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:54'}
+2025-02-20 14:30:58,790 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:30:59,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:01,431 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:03,714 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:03,716 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:30:59'}
+2025-02-20 14:31:03,717 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:04,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:06,435 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:08,772 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:08,773 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:04'}
+2025-02-20 14:31:08,773 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:09,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:11,443 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:13,767 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:13,768 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:09'}
+2025-02-20 14:31:13,769 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:14,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:16,507 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:18,870 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:18,872 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:14'}
+2025-02-20 14:31:18,873 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:19,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:21,503 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:23,815 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:23,817 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:19'}
+2025-02-20 14:31:23,818 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:24,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:26,470 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:28,782 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:28,782 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:24'}
+2025-02-20 14:31:28,783 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:29,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:31,455 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:33,761 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:33,763 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:29'}
+2025-02-20 14:31:33,763 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:34,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:36,457 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:38,739 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:38,740 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:34'}
+2025-02-20 14:31:38,740 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:39,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:41,460 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:43,776 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:43,778 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:39'}
+2025-02-20 14:31:43,778 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:44,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:46,456 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:48,775 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:48,777 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:44'}
+2025-02-20 14:31:48,777 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:49,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:51,466 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:53,786 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:53,787 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:49'}
+2025-02-20 14:31:53,787 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:54,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:31:56,449 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:31:58,740 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:31:58,741 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:54'}
+2025-02-20 14:31:58,741 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:31:59,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:01,453 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:03,819 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:03,821 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:31:59'}
+2025-02-20 14:32:03,821 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:04,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:06,478 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:08,793 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:08,794 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:04'}
+2025-02-20 14:32:08,796 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:09,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:11,470 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:13,796 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:13,797 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:09'}
+2025-02-20 14:32:13,797 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:14,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:16,472 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:18,777 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:18,779 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:14'}
+2025-02-20 14:32:18,779 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:19,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:21,481 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:23,822 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:23,823 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:19'}
+2025-02-20 14:32:23,825 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:24,142 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:26,442 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:28,799 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:28,800 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:24'}
+2025-02-20 14:32:28,800 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:29,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:31,488 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:33,809 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:33,810 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:29'}
+2025-02-20 14:32:33,810 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:34,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:36,475 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:38,816 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:38,818 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:34'}
+2025-02-20 14:32:38,819 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:39,135 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:41,540 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:43,875 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:43,876 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:39'}
+2025-02-20 14:32:43,877 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:44,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:46,503 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:48,810 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:48,813 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:44'}
+2025-02-20 14:32:48,813 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:49,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:51,497 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:53,780 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:53,781 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:49'}
+2025-02-20 14:32:53,781 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:54,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:32:56,482 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:32:58,792 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:32:58,794 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:54'}
+2025-02-20 14:32:58,794 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:32:59,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:01,450 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:03,799 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:03,801 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:32:59'}
+2025-02-20 14:33:03,801 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:04,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:06,474 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:08,770 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:08,771 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:04'}
+2025-02-20 14:33:08,771 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:09,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:11,485 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:13,825 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:13,828 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:09'}
+2025-02-20 14:33:13,829 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:14,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:16,495 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:18,807 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:18,808 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:14'}
+2025-02-20 14:33:18,808 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:19,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:21,434 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:23,692 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:23,693 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:19'}
+2025-02-20 14:33:23,693 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:24,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:26,430 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:28,778 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:28,780 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:24'}
+2025-02-20 14:33:28,780 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:29,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:31,471 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:33,781 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:33,781 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:29'}
+2025-02-20 14:33:33,782 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:34,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:36,454 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:38,763 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:38,766 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:34'}
+2025-02-20 14:33:38,768 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:39,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:41,429 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:43,713 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:43,715 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:39'}
+2025-02-20 14:33:43,716 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:44,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:46,519 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:48,814 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:48,815 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:44'}
+2025-02-20 14:33:48,816 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:49,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:51,457 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:53,761 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:53,763 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:49'}
+2025-02-20 14:33:53,763 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:54,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:33:56,473 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:33:58,753 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:33:58,753 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:54'}
+2025-02-20 14:33:58,754 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:33:59,151 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:01,484 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:03,836 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:03,836 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:33:59'}
+2025-02-20 14:34:03,837 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:04,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:06,448 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:08,757 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:08,758 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:04'}
+2025-02-20 14:34:08,758 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:09,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:11,534 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:13,895 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:13,897 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:09'}
+2025-02-20 14:34:13,898 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:14,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:16,446 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:18,711 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:18,712 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:14'}
+2025-02-20 14:34:18,712 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:19,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:21,451 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:23,763 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:23,766 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:19'}
+2025-02-20 14:34:23,766 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:24,133 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:26,398 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:28,708 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:28,708 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:24'}
+2025-02-20 14:34:28,709 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:29,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:31,425 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:33,735 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:33,737 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:29'}
+2025-02-20 14:34:33,738 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:34,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:36,474 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:38,843 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:38,845 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:34'}
+2025-02-20 14:34:38,845 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:39,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:41,441 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:43,748 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:43,750 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:39'}
+2025-02-20 14:34:43,751 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:44,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:46,467 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:48,770 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:48,772 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:44'}
+2025-02-20 14:34:48,773 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:49,150 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:51,464 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:53,783 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:53,784 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:49'}
+2025-02-20 14:34:53,786 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:54,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:34:56,467 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:34:58,799 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:34:58,800 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:54'}
+2025-02-20 14:34:58,800 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:34:59,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:01,443 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:03,725 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:03,728 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:34:59'}
+2025-02-20 14:35:03,728 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:04,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:06,461 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:08,785 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:08,786 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:04'}
+2025-02-20 14:35:08,787 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:09,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:11,447 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:13,788 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:13,790 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:09'}
+2025-02-20 14:35:13,790 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:14,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:16,464 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:18,769 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:18,770 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:14'}
+2025-02-20 14:35:18,771 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:19,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:21,469 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:23,808 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:23,809 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:19'}
+2025-02-20 14:35:23,809 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:24,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:26,526 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:28,833 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:28,834 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:24'}
+2025-02-20 14:35:28,834 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:29,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:31,456 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:33,754 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:33,757 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:29'}
+2025-02-20 14:35:33,757 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:34,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:36,435 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:38,717 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:38,717 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:34'}
+2025-02-20 14:35:38,717 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:39,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:41,462 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:43,753 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:43,755 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:39'}
+2025-02-20 14:35:43,755 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:44,135 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:46,453 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:48,809 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:48,811 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:44'}
+2025-02-20 14:35:48,811 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:49,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:51,430 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:53,713 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:53,716 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:49'}
+2025-02-20 14:35:53,716 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:54,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:35:56,476 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:35:58,818 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:35:58,819 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:54'}
+2025-02-20 14:35:58,819 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:35:59,150 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:01,442 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:03,742 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:03,743 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:35:59'}
+2025-02-20 14:36:03,744 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:04,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:06,485 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:08,826 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:08,827 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:04'}
+2025-02-20 14:36:08,827 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:09,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:11,443 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:13,776 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:13,777 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:09'}
+2025-02-20 14:36:13,778 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:14,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:16,518 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:18,843 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:18,844 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:14'}
+2025-02-20 14:36:18,844 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:19,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:21,441 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:23,749 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:23,750 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:19'}
+2025-02-20 14:36:23,750 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:24,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:26,454 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:28,772 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:28,773 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:24'}
+2025-02-20 14:36:28,773 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:29,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:31,462 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:33,780 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:33,780 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:29'}
+2025-02-20 14:36:33,781 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:34,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:36,454 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:38,790 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:38,790 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:34'}
+2025-02-20 14:36:38,791 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:39,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:41,471 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:43,772 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:43,774 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:39'}
+2025-02-20 14:36:43,774 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:44,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:46,455 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:48,791 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:48,793 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:44'}
+2025-02-20 14:36:48,793 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:49,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:51,468 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:53,788 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:53,788 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:49'}
+2025-02-20 14:36:53,789 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:54,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:36:56,467 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:36:58,786 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:36:58,786 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:54'}
+2025-02-20 14:36:58,786 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:36:59,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:01,448 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:03,756 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:03,756 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:36:59'}
+2025-02-20 14:37:03,757 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:04,135 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:06,510 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:08,834 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:08,837 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:04'}
+2025-02-20 14:37:08,837 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:09,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:11,451 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:13,757 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:13,758 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:09'}
+2025-02-20 14:37:13,758 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:14,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:16,462 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:18,753 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:18,753 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:14'}
+2025-02-20 14:37:18,753 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:19,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:21,415 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:23,735 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:23,737 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:19'}
+2025-02-20 14:37:23,738 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:24,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:26,429 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:28,798 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:28,801 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:24'}
+2025-02-20 14:37:28,801 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:29,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:31,432 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:33,729 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:33,730 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:29'}
+2025-02-20 14:37:33,730 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:34,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:36,425 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:38,704 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:38,705 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:34'}
+2025-02-20 14:37:38,705 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:39,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:41,459 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:43,777 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:43,778 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:39'}
+2025-02-20 14:37:43,778 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:44,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:46,439 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:48,729 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:48,731 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:44'}
+2025-02-20 14:37:48,732 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:49,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:51,451 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:53,743 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:53,744 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:49'}
+2025-02-20 14:37:53,744 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:54,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:37:56,453 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:37:58,750 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:37:58,751 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:54'}
+2025-02-20 14:37:58,752 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:37:59,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:01,453 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:03,838 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:03,841 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:37:59'}
+2025-02-20 14:38:03,841 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:04,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:06,453 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:08,777 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:08,780 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:04'}
+2025-02-20 14:38:08,780 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:09,142 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:11,463 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:13,769 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:13,770 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:09'}
+2025-02-20 14:38:13,771 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:14,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:16,447 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:18,731 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:18,732 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:14'}
+2025-02-20 14:38:18,734 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:19,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:21,437 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:23,738 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:23,740 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:19'}
+2025-02-20 14:38:23,740 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:24,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:26,470 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:28,801 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:28,802 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:24'}
+2025-02-20 14:38:28,802 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:29,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:31,438 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:33,730 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:33,732 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:29'}
+2025-02-20 14:38:33,732 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:34,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:36,460 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:38,790 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:38,791 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:34'}
+2025-02-20 14:38:38,792 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:39,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:41,444 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:43,732 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:43,734 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:39'}
+2025-02-20 14:38:43,734 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:44,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:46,542 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:48,884 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:48,886 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:44'}
+2025-02-20 14:38:48,886 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:49,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:51,441 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:53,735 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:53,738 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:49'}
+2025-02-20 14:38:53,738 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:54,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:38:56,482 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:38:58,819 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:38:58,820 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:54'}
+2025-02-20 14:38:58,820 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:38:59,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:01,503 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:03,847 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:03,848 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:38:59'}
+2025-02-20 14:39:03,850 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:04,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:06,490 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:08,828 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:08,829 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:04'}
+2025-02-20 14:39:08,829 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:09,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:11,459 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:13,791 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:13,793 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:09'}
+2025-02-20 14:39:13,793 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:14,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:16,471 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:18,757 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:18,759 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:14'}
+2025-02-20 14:39:18,760 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:19,150 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:21,509 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:23,864 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:23,865 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:19'}
+2025-02-20 14:39:23,866 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:24,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:26,439 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:28,796 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:28,798 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:24'}
+2025-02-20 14:39:28,799 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:29,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:31,460 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:33,769 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:33,771 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:29'}
+2025-02-20 14:39:33,771 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:34,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:36,440 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:38,735 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:38,736 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:34'}
+2025-02-20 14:39:38,738 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:39,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:41,438 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:43,748 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:43,750 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:39'}
+2025-02-20 14:39:43,751 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:44,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:46,488 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:48,836 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:48,838 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:44'}
+2025-02-20 14:39:48,839 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:49,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:51,481 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:53,829 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:53,830 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:49'}
+2025-02-20 14:39:53,833 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:54,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:39:56,482 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:39:58,832 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:39:58,834 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:54'}
+2025-02-20 14:39:58,834 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:39:59,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:01,432 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:03,748 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:03,750 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:39:59'}
+2025-02-20 14:40:03,750 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:04,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:06,470 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:08,776 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:08,779 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:04'}
+2025-02-20 14:40:08,779 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:09,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:11,472 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:13,778 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:13,779 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:09'}
+2025-02-20 14:40:13,780 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:14,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:16,471 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:18,831 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:18,833 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:14'}
+2025-02-20 14:40:18,834 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:19,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:21,424 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:23,725 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:23,726 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:19'}
+2025-02-20 14:40:23,726 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:24,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:26,488 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:28,769 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:28,772 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:24'}
+2025-02-20 14:40:28,772 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:29,142 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:31,471 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:33,793 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:33,795 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:29'}
+2025-02-20 14:40:33,796 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:34,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:36,467 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:38,799 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:38,800 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:34'}
+2025-02-20 14:40:38,800 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:39,142 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:41,466 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:43,782 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:43,783 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:39'}
+2025-02-20 14:40:43,784 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:44,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:46,452 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:40:48,724 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:40:48,724 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:44'}
+2025-02-20 14:40:48,725 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:40:49,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:40:51,488 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:48:39,048 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:48:39,050 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:40:49'}
+2025-02-20 14:48:39,051 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:48:39,954 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:48:45,414 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:48:47,721 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:48:47,722 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:48:39'}
+2025-02-20 14:48:47,722 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:48:49,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:48:51,464 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:48:53,791 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:48:53,794 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:48:49'}
+2025-02-20 14:48:53,794 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:48:54,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:48:56,441 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:48:58,757 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:48:58,757 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:48:54'}
+2025-02-20 14:48:58,757 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:48:59,138 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:01,446 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:03,773 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:03,775 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:48:59'}
+2025-02-20 14:49:03,775 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:04,142 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:06,513 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:08,849 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:08,850 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:04'}
+2025-02-20 14:49:08,850 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:09,135 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:11,438 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:13,790 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:13,792 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:09'}
+2025-02-20 14:49:13,792 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:14,146 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:16,472 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:18,788 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:18,789 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:14'}
+2025-02-20 14:49:18,789 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:19,134 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:21,456 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:23,778 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:23,779 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:19'}
+2025-02-20 14:49:23,779 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:24,145 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:26,438 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:28,736 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:28,738 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:24'}
+2025-02-20 14:49:28,738 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:29,143 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:31,469 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:33,776 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:33,779 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:29'}
+2025-02-20 14:49:33,780 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:34,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:36,491 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:38,789 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:38,791 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:34'}
+2025-02-20 14:49:38,791 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:39,136 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:41,428 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:43,756 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:43,757 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:39'}
+2025-02-20 14:49:43,757 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:44,139 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:46,477 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:48,786 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:48,788 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:44'}
+2025-02-20 14:49:48,788 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:49,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:51,441 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:53,698 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:53,699 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:49'}
+2025-02-20 14:49:53,699 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:54,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:49:56,510 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:49:58,853 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:49:58,854 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:54'}
+2025-02-20 14:49:58,854 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:49:59,150 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:01,539 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:03,860 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:03,862 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:49:59'}
+2025-02-20 14:50:03,863 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:04,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:06,427 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:08,716 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:08,719 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:04'}
+2025-02-20 14:50:08,719 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:09,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:11,510 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:13,846 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:13,847 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:09'}
+2025-02-20 14:50:13,847 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:14,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:16,492 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:18,779 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:18,781 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:14'}
+2025-02-20 14:50:18,781 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:19,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:21,468 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:23,752 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:23,754 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:19'}
+2025-02-20 14:50:23,754 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:24,141 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:26,490 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:28,780 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:28,782 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:24'}
+2025-02-20 14:50:28,782 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:29,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:31,500 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:33,842 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:33,843 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:29'}
+2025-02-20 14:50:33,843 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:34,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:36,490 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:38,793 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:38,795 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:34'}
+2025-02-20 14:50:38,795 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:39,144 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:41,511 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:43,839 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:43,840 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:39'}
+2025-02-20 14:50:43,841 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:44,147 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:46,523 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:48,837 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:48,838 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:44'}
+2025-02-20 14:50:48,838 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:49,140 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:51,487 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:53,783 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:53,785 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:49'}
+2025-02-20 14:50:53,785 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:54,148 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:50:56,460 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:50:58,759 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:50:58,760 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:54'}
+2025-02-20 14:50:58,760 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:50:59,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:51:01,465 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:51:03,750 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:51:03,751 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:50:59'}
+2025-02-20 14:51:03,751 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:51:04,149 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:51:06,485 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:51:08,818 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:51:08,822 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:51:04'}
+2025-02-20 14:51:08,823 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:51:09,137 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:51:11,458 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:51:13,754 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:51:13,755 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:51:09'}
+2025-02-20 14:51:13,757 - basicLogger - INFO - Periodic processing ended.
+2025-02-20 14:51:14,135 - basicLogger - INFO - Periodic processing started.
+2025-02-20 14:51:16,461 - basicLogger - INFO - Received 0 flight schedule events.
+2025-02-20 14:51:18,801 - basicLogger - INFO - Received 0 passenger check-in events.
+2025-02-20 14:51:18,801 - basicLogger - DEBUG - Updated statistics: {'num_flight_schedules': 705, 'num_passenger_checkins': 700, 'max_luggage_weight': 600, 'min_luggage_weight': 5, 'max_flight_duration': 99999, 'min_flight_duration': 13, 'last_updated': '2025-02-20 22:51:14'}
+2025-02-20 14:51:18,801 - basicLogger - INFO - Periodic processing ended.

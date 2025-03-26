@@ -1,0 +1,13 @@
+version: 1
+
+datastore:
+  filename: ./processing/event_stats.json
+
+scheduler:
+  interval: 5
+
+eventstores:
+  flight_schedules:
+    url: http://localhost:8090/flights/schedule
+  passenger_checkins:
+    url: http://localhost:8090/passenger/checkin

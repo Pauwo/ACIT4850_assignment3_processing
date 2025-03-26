@@ -1,0 +1,72 @@
+openapi: 3.0.0
+info:
+  title: Airport Event Processing API
+  description: API for retrieving processed statistics on flight schedules and passenger check-ins.
+  contact:
+    email: rhernandez35@my.bcit.ca
+  version: "1.0.0"
+
+paths:
+  /stats:
+    get:
+      summary: Gets the processed statistics
+      operationId: app.get_stats
+      description: Retrieves cumulative and calculated statistics from stored event data.
+      responses:
+        "200":
+          description: Successfully returned event statistics
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/EventStats"
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    EventStats:
+      type: object
+      required:
+        - num_flight_schedules
+        - num_passenger_checkins
+        - max_luggage_weight
+        - min_luggage_weight
+        - max_flight_duration
+        - min_flight_duration
+        - last_updated
+      properties:
+        num_flight_schedules:
+          type: integer
+          description: Cumulative number of flight schedule events processed.
+          example: 1200
+        num_passenger_checkins:
+          type: integer
+          description: Cumulative number of passenger check-in events processed.
+          example: 800
+        max_luggage_weight:
+          type: number
+          description: Maximum luggage weight recorded.
+          example: 35.5
+        min_luggage_weight:
+          type: number
+          description: Minimum luggage weight recorded.
+          example: 10.0
+        max_flight_duration:
+          type: integer
+          description: Maximum flight duration recorded (in minutes).
+          example: 420
+        min_flight_duration:
+          type: integer
+          description: Minimum flight duration recorded (in minutes).
+          example: 45
+        last_updated:
+          type: string
+          description: Timestamp of the last processed event.
+          example: "2025-02-06 15:30:00"

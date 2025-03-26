@@ -1,0 +1,9 @@
+{
+    "num_flight_schedules": 705,
+    "num_passenger_checkins": 700,
+    "max_luggage_weight": 600,
+    "min_luggage_weight": 5,
+    "max_flight_duration": 99999,
+    "min_flight_duration": 13,
+    "last_updated": "2025-02-20 22:51:14"
+}
